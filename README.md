@@ -12,9 +12,13 @@ A basic weather forecasting application which retrieves and visualises the weath
 
 ## Tools and Tech
 Design Inspiration: [Outcrowd](https://dribbble.com/shots/6932038-Mobile-application-Weather-Forecast)
+
 Environment: Android Studio
+
 SDK: Flutter
+
 Programming Language: Dart
+
 API: [OpenWeatherMaps API](https://openweathermap.org/api)
 
 ## TODO
