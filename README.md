@@ -24,3 +24,6 @@ API: [OpenWeatherMaps API](https://openweathermap.org/api)
 ## TODO
 1. Dark Theme
 2. Documentation
+
+## Screenshot
+<img align="center" src="ss.gif"  width="200"/>
