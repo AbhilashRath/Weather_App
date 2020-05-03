@@ -1,0 +1,45 @@
+name: weather_app
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  weather_icons: ^2.0.1
+  syncfusion_flutter_charts: ^18.1.45
+  geolocator: ^5.3.1
+  http: ^0.12.1
+  flutter_spinkit: ^4.1.2+1
+  geocoder: ^0.2.1
+  flutter_launcher_icons: ^0.7.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/app_logo.png"
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/app_logo.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-ExtraLight.ttf
+          weight: 100
+
